@@ -32,7 +32,7 @@
     "grunt-umd": ">=2.3.5",
     "karma": "1.3.0",
     "karma-chrome-launcher": "2.0.0",
-    "karma-jasmine": "1.0.2",
+    "karma-jasmine": "5.1.0",
     "karma-jasmine-matchers": "3.0.1"
   },
   "homepage": "https://github.com/katspaugh/wavesurfer.js"
